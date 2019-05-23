@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT hooks_tutorial_3730.wsgi:application
